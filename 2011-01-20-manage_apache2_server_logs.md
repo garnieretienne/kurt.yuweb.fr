@@ -182,6 +182,7 @@ Custom configuration
 I will set up a daily based rotation of the logfile, and keep the logs for 3 days. I want everything to be compressed. I will change the way apache2 is restarted to just tel it to write ALL the logs on the new file after the rotation is completed. I want proper name with date in the log filename.
 
 This is my actual logrotate file for apache:
+
 ```bash
 /var/log/apache2/*.log {
   daily
@@ -207,6 +208,7 @@ Schedule the rotation (Proper)
 By default, logrotate is CRON sheduled (daily). It configuration file is `/etc/cron.daily/logrotate`. My problem is than i need proper schedule for hourly/daily/weekly/monthly labels in the default CRON config (`/etc/crontab`).
 
 I need the log migrate at midnight, not 6AM, so i change the shedule like that:
+
 ```
 1 *    * * *   root    cd / &amp;&amp; run-parts --report /etc/cron.hourly
 5 0    * * *   root    test -x /usr/sbin/anacron || ( cd / &amp;&amp; run-parts --report /etc/cron.daily )
