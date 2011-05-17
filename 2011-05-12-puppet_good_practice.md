@@ -3,6 +3,7 @@ title: Puppet good practice
 I need to define some good pratices before to renew my puppet architecture and redefine my modules.
 
 Some documentations:
+
 * http://projects.puppetlabs.com/projects/1/wiki/Puppet_Best_Practice
 * http://plathrop.tertiusfamily.net/puppet/best-practice-draft.html
 * http://docs.puppetlabs.com/guides/best_practices.html
