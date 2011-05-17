@@ -17,6 +17,7 @@ Puppet architecture
 ===================
 
 I use three repositories managed by Git to administrate my network:
+
 * a modules repository: it contain my services modules
 * a manifest repository: it contain my host declarations
 * a fileserver repository: it contain all my configurations files, generic and by-host configurations
