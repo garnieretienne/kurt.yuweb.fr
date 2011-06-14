@@ -42,3 +42,5 @@ rm Gemfile.lock
 gem uninstall activerecord i18n
 bundle install
 ```
+
+source: http://groups.google.com/group/padrino/browse_thread/thread/8326c286a8346b70
