@@ -31,16 +31,21 @@ title: Padrino - 'constant Logger::Format not defined'
 Please specify generator to use (project, app, mailer, controller, model, migration, plugin)
 ```
 
-To avoid this error, just specify the activerecord version in your gemfile (get the last version number at http://rubygems.org/gems/activerecord), and rebuild your bundle:
+To avoid this error, just specify the activerecord version in your gemfile (3.0.7), and rebuild your bundle:
 
 ```ruby
-gem 'activerecord', '~>3.0.8', :require => "active_record"
+gem 'activerecord', '~>3.0.7', :require => "active_record"
+...
+gem 'padrino' # remove the version number here
 ```
 
 ```bash
 rm Gemfile.lock
-gem uninstall activerecord i18n
+gem uninstall padrino activerecord i18n
 bundle install
 ```
 
-source: http://groups.google.com/group/padrino/browse_thread/thread/8326c286a8346b70
+source: 
+
+* http://groups.google.com/group/padrino/browse_thread/thread/8326c286a8346b70
+* https://github.com/padrino/padrino-framework/issues/572
