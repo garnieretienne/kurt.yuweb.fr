@@ -41,7 +41,7 @@ gem 'padrino' # remove the version number here
 
 ```bash
 rm Gemfile.lock
-gem uninstall padrino activerecord i18n
+gem uninstall activerecord i18n
 bundle install
 ```
 
