@@ -1,6 +1,6 @@
 title: Padrino - 'constant Logger::Format not defined'
 
-```bash
+```
 => Problem loading ./config/boot.rb
 => constant Logger::Format not defined
   /home/kurt/.rvm/gems/ruby-1.9.2-p180@padrino-testing/gems/activerecord-1.6.0/lib/active_record/support/clean_logger.rb:5:in `remove_const'
