@@ -1,6 +1,6 @@
 title: Padrino - 'constant Logger::Format not defined'
 
-```ruby
+```bash
 => Problem loading ./config/boot.rb
 => constant Logger::Format not defined
   /home/kurt/.rvm/gems/ruby-1.9.2-p180@padrino-testing/gems/activerecord-1.6.0/lib/active_record/support/clean_logger.rb:5:in `remove_const'
@@ -31,7 +31,7 @@ title: Padrino - 'constant Logger::Format not defined'
 Please specify generator to use (project, app, mailer, controller, model, migration, plugin)
 ```
 
-To avoid this error, just specify the activerecord version in your gemfile (get the last version number at http://rubygems.org/gems/activerecord), ans rebuild your bundle:
+To avoid this error, just specify the activerecord version in your gemfile (get the last version number at http://rubygems.org/gems/activerecord), and rebuild your bundle:
 
 ```ruby
 gem 'activerecord', '~>3.0.8', :require => "active_record"
