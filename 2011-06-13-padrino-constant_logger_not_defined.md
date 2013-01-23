@@ -1,5 +1,3 @@
-title: Padrino - 'constant Logger::Format not defined'
-
 ```
 => Problem loading ./config/boot.rb
 => constant Logger::Format not defined

@@ -1,5 +1,3 @@
-title: Build Nginx with Upload progress module
-
 Nginx Upload Progress Module
 ============================
 

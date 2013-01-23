@@ -1,6 +1,3 @@
-title: Manage apache2 access logs
-published: 1295478000
-
 On high traffic web servers, the log file footprint can be a serious issue when using the default system configuration. In this post, I will try to customize the way the access log are managed for respond to my own needs.
 
 Goals

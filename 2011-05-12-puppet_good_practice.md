@@ -1,5 +1,3 @@
-title: Puppet good practice
-
 I need to define some good pratices before to renew my puppet architecture and redefine my modules.
 
 Some documentations:
