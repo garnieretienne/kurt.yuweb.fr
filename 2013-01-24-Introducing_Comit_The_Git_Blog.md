@@ -20,6 +20,8 @@ But I don’t want to be one of them. I like my work, my thoughts and my feeling
 
 Libby from Branch noticed that I stated that I won’t use that service either. Again, it comes down to the same reasons. I think it’s a marvelous platform for discussion, it’s just not how I want to discuss things. Branch feels, to me, like trying to carry on a conversation in a cafeteria. I prefer more one-to-one communication. Even if there are 500 people reading this right now, I’m connecting with each of them individually. That feels like talking, and I like it.
 
+# Hello Title
+
 I prefer to blog. I like that I can step up, write a few words and people can pass by to read them. If they have a reply, I hope that they’ll blog their thoughts as well and we can link our discussions to one another. I don’t often have the opportunity to do a real-time, threaded discussion, and Branch begs to be used in that way.
 
 So I avoid it. But maybe you shouldn’t.
