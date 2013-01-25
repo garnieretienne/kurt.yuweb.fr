@@ -24,9 +24,13 @@ Libby from Branch noticed that I stated that I won’t use that service either. 
 
 I prefer to blog. I like that I can step up, write a few words and people can pass by to read them. If they have a reply, I hope that they’ll blog their thoughts as well and we can link our discussions to one another. I don’t often have the opportunity to do a real-time, threaded discussion, and Branch begs to be used in that way.
 
+## Anything
+
 So I avoid it. But maybe you shouldn’t.
 
 There’s merit to these discussion and blogging platforms that are coming out in droves. Many of them suck, but a few of them are incredibly good. If that is how you wish to communicate and share your thoughts, then please do.
+
+## Can be false
 
 Call me old fashioned, but I really like what I’ve been able to write because of WordPress, Movable Type and Svbtle. I’ll read Branch discussions, I’ll read Quora blogs. Then I’ll link to them. Because something about that seems very much like the Internet to me.
 
